@@ -5,7 +5,7 @@
 		},
 		{
 			"name": "host",
-			"path": "..\\ACTOBETOINMAIN\\host"
+			"path": "..\\actobetodev\\host"
 		}
 	],
 	"settings": {}
